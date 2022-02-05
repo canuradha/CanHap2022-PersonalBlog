@@ -125,8 +125,8 @@ for(Wall vWall: verticalMWalls){
 
 The video of the working application with haply is as depicted below,
 
-// video
+<iframe src="https://drive.google.com/file/d/1-BGe4MdPkuOEVT65-it6aqY6LHzkMdnZ/preview" width="640" height="480" allow="autoplay"></iframe>
 
 One issue I faced with the feedback is that the feedback given in both negative directions was more closer to a vibration rather than a force. I tried to debug the issue for couple of hours but was not able to find the root of the problem.
 
-The full code could be found [here]()
+The full code could be found [here](https://github.com/canuradha/CanHap2022-PersonalBlog/tree/haply_maze)
