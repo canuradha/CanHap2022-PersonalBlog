@@ -80,7 +80,7 @@ setting up the three types of feedback (dampened motion, slick motion and vibrat
 ```
 Here's a video of the application working with Haply:
 
-// video
+<iframe src="https://drive.google.com/file/d/1sZex7qvOD1LvO5-aZIz1xbJNaJNErYE0/preview" width="640" height="480" allow="autoplay"></iframe>
 
 ## Evaluation of the sketch with a person
 For the evaluation I asked my roommate to test it and express what kind of word he could use to describe the motions in different sections. For this
@@ -89,4 +89,4 @@ test I didn't show him the UI window and just asked him to play with the haply a
 yellow semi-circle) and ***aggressive*** (for ***angry*** section - red square). Even though I implemented the two latter motions with ***Skittish***
 and ***Angry*** in mind I realized that his interpretations were also very much similar when conveyed through the haply. 
 
-The complete code for the sketch can be found [here]()
+The complete code for the sketch can be found [here](https://github.com/canuradha/CanHap2022-PersonalBlog/tree/haply_words)
