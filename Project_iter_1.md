@@ -22,8 +22,8 @@ working on figuring out the Haptics behind collisions, I mainly focused on creat
  interface for conveying the motion mechanics and the main physics theories (in this iteration,
  collisions) behind the said motions. The blogs on their respective work can be found below;
 
- - [Melissa's Blog on Iteration 1]()
- - [Kevin's Blog on iteration 1]()
+ - [Melissa's Blog on Iteration 1](https://melissyu.wordpress.com/2022/03/06/project-iteration-1-haplastic-colliders/)
+ - [Kevin's Blog on iteration 1](https://canhapticsstudentblogkeving.wordpress.com/project-iteration-1/)
 
 ## The Initial Discussion
 
